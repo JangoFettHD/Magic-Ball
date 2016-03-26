@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backup">#64B5F6</color>
+
+    <color name="colorPrimary">#2d3f91</color>
+    <color name="colorPrimaryDark">#2d3f91</color>
+    <color name="colorAccent">#2d3f91</color>
+    <color name="background">#2d3f91</color>
+    <color name="font">#e8eaf6</color>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шар предсказаний</string>
+    <string name="no">Нет</string>
+    <string name="change_urself">Измени себя</string>
+    <string name="ask_ur_mom">Спроси у мамы</string>
+    <string name="no_doubts">Никаких сомнений</string>
+    <string name="try_it">Попробуй</string>
+    <string name="find_a_job">Найди работу</string>
+    <string name="forget_it">Забудь об этом</string>
+    <string name="Tomorrow">Завтра</string>
+    <string name="aspire_to_this">Стремись к этому</string>
+    <string name="yes">Да</string>
+    <string name="today">Сегодня</string>
+    <string name="the_morning_is_wiser">Утро вечера мудренее</string>
+    <string name="maybe">Возможно</string>
+    <string name="have_a_rest">Отдохни</string>
+    <string name="think">Подумай</string>
+    <string name="soon">Скоро</string>
+    <string name="ask_in_another_time">Спроси в другой раз</string>
+    <string name="intro">Встряхни или нажми на текст</string>
+    <string name="apprate_title">Оцените приложение</string>
+    <string name="apprate_message_p1">Если Вам нравится приложение \"</string>
+    <string name="apprate_message_p2">\", пожалуйста, уделите минутку и оцените его на 5 звезд. Спасибо!</string>
+    <string name="apprate_rate">Оценить!</string>
+    <string name="apprate_remindLater">Позже</string>
+    <string name="apprate_dismiss">Нет, спасибо</string>
+    <string name="apprate_gp_isnt_installed">Google Play не установлен!</string>
+    <string name="proceed">Приступим?</string>
+</resources>
